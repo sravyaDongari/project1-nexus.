@@ -196,3 +196,38 @@ a.google span {
     }
 
 }
+@media screen and (max-width: 767px) {
+
+    /* Adjustments for smaller screens */
+    .container {
+        padding: 10px;
+    }
+
+    .form {
+        max-width: 100%;
+        width: auto;
+        margin: 0 auto;
+    }
+
+
+}
+
+/* Tablet and Larger Screen Styles */
+@media screen and (min-width: 768px) {
+
+    
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+
+    .form {
+        max-width: 400px;
+        /* Adjust as needed */
+        width: 100%;
+    }
+
+   
+}
