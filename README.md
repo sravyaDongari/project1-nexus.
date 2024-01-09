@@ -69,15 +69,16 @@ The HTML structure defines a login and signup form within a container. The page 
 - `name="viewport"`: Defines the viewport properties for responsive design.
 
 #### CSS and JavaScript Links:
-- External CSS file: `C:\Users\umesh chandra\Documents\login\Untitled-1.css`
+- External CSS file: `file:///Users/sravya/Desktop/project1-nexus/nexus.css`
 - Boxicons CSS library: Linked from `https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css`
-- External JavaScript file: `C:\Users\umesh chandra\Documents\login\script.js`
+- External JavaScript file: file:`file:///Users/sravya/Desktop/project1-nexus/nexus.js`
+
 
 #### Body Section:
 - Contains a container with login and signup forms.
 - Forms are divided into login and signup sections.
 
-### CSS Styling (from `Untitled-1.css`):
+### CSS Styling (from `nexus.css`):
 
 The CSS file contains styles for creating a responsive login and signup form with various input fields, buttons, and media options.
 
@@ -88,7 +89,7 @@ The CSS file contains styles for creating a responsive login and signup form wit
 - Eye icon for password visibility toggle.
 - Media options for login with Facebook and Google.
 
-### JavaScript Functionality (from `script.js`):
+### JavaScript Functionality (from `nexus.js`):
 
 The JavaScript file adds functionality to the login and signup forms.
 
